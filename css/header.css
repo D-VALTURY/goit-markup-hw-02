@@ -16,9 +16,9 @@
   color: #2e2f42;
 }
 
-.top-menu a:hover,
-a:focus,
-a:active {
+.top-menu ul li a:hover,
+.top-menu ul li a:focus,
+.top-menu ul li a:active {
   color: #404bbf;
 }
 
@@ -26,7 +26,7 @@ a:active {
   font-style: normal;
 }
 
-.top-adress a:hover,
-.top-adress a:focus {
+.top-adress ul li a:hover,
+.top-adress ul li a:focus {
   color: #404bbf;
 }
