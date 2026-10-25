@@ -4,10 +4,10 @@
   line-height: 1.11;
 }
 
-.features-container > h3 {
+.features-container li > h3 {
   color: #2e2f42;
 }
 
-.features-container > p {
+.features-container li > p {
   color: #434455;
 }

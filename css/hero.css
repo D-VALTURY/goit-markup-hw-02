@@ -12,6 +12,6 @@
 }
 
 .hero-container button:hover,
-button:focus {
+.hero-container button:focus {
   background-color: #404bbf;
 }

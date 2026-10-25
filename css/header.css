@@ -4,10 +4,16 @@
   font-size: 18px;
   color: #2e2f42;
   text-transform: uppercase;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
 }
 
 .logo > span {
   color: #4d5ae5;
+}
+.top-menu {
+  font-weight: 500;
+  color: #2e2f42;
 }
 
 .top-menu a:hover,
@@ -21,6 +27,6 @@ a:active {
 }
 
 .top-adress a:hover,
-:focus {
+.top-adress a:focus {
   color: #404bbf;
 }
