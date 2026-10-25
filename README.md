@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-First homework GoIT FullStack 
+# goit-markup-hw-02
+Second homework GoIT FullStack 
