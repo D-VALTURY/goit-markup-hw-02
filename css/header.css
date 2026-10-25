@@ -1,4 +1,4 @@
-#header > a {
+.logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -6,19 +6,21 @@
   text-transform: uppercase;
 }
 
-#header > a > span {
+.logo > span {
   color: #4d5ae5;
 }
 
-nav a:hover {
+.top-menu a:hover,
+a:focus,
+a:active {
   color: #404bbf;
 }
 
-nav a:active {
-  color: #404bbf;
-  border-bottom: 4px solid #404bbf;
+.top-adress {
+  font-style: normal;
 }
 
-address a:hover {
+.top-adress a:hover,
+:focus {
   color: #404bbf;
 }
