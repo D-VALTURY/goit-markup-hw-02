@@ -1,0 +1,22 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team h2,
+#portfolio h2 {
+  text-align: center;
+}
+
+#team li {
+  background-color: #ffffff;
+}
+
+#team li > h3 {
+  color: #2e2f42;
+  text-align: center;
+}
+
+#team li > p {
+  color: #434455;
+  text-align: center;
+}

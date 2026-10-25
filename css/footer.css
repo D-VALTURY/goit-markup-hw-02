@@ -1,0 +1,20 @@
+#footer {
+  background-color: #2e2f42;
+}
+
+#footer > a {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: #f4f4fd;
+  text-transform: uppercase;
+}
+
+#footer > a > span {
+  color: #4d5ae5;
+}
+
+#footer > p {
+  color: #f4f4fd;
+  font-weight: 400;
+}
